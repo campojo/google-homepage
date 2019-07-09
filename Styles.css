@@ -1,0 +1,28 @@
+ul li {
+    list-style-type: none;
+    display: inline;
+    padding-right: 10px;
+    text-align: right;
+   
+}
+.menu-right {
+    text-align: right;
+}
+
+#search-bar{
+    text-align: center;
+}
+#search-input {
+    text-align: center;
+    width: 400px;
+
+}
+
+#lucky-button , #search-button {
+    display: inline;
+    color: #5F6368;
+    background-color: #f2f2f2;
+    border: 1px solid #f2f2f2;
+    border-radius: 4px;
+
+}
